@@ -1,0 +1,62 @@
+[
+    {
+      "userId": 1,
+      "name": "Karthick",
+      "dob": "03/06/2000",
+      "native":"Salem"
+    },
+    {
+      "userId": 2,
+      "name": "Kabilan",
+      "dob": "22/08/2003",
+      "native":"Kalakurichi"
+    },
+    {
+      "userId": 3,
+      "name": "Jeyamuthu",
+      "dob": "12/06/2004",
+      "native":"Salem"
+    },
+    {
+      "userId": 4,
+      "name": "Hariharan",
+      "dob": "14/02/2004",
+      "native":"Salem"
+    },
+    {
+      "userId": 5,
+      "name": "Aravind",
+      "dob": "23/12/2003",
+      "native":"Kalakurichi"
+    },
+    {
+      "userId": 6,
+      "name": "Bavana",
+      "dob": "13/07/2001",
+      "native":"Chennai"
+    },
+    {
+      "userId": 7,
+      "name": "Abinaya",
+      "dob": "15/11/2003",
+      "native":"Kalakurichi"
+    },
+    {
+      "userId": 8,
+      "name": "Karthika",
+      "dob": "23/04/2001",
+      "native":"Erode "
+    },
+    {
+      "userId": 9,
+      "name": "Vijitha",
+      "dob": "29/05/2004",
+      "native":"chennai"
+    },
+    {
+      "userId": 10,
+      "name": "Dhiviya",
+      "dob": "1/03/2002",
+      "native":"namakkal"
+    }
+]

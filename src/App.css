@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+table,th,td{
+  
+  border: 2px solid red;
+  border-collapse:separate;
+  padding: 5px;
+}
+table{
+  position: absolute;
+  left: 30%;
+  top: 25%;
+}
